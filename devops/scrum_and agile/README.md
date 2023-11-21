@@ -1,6 +1,6 @@
 ### What is Agile?
 
-- Agile is a form of methodology, it's a flexible project management approach that prioritizes 	collaboration, adaptability, and incremental progress to deliver value efficiently in software 	development.
+- **Agile is a form of methodology**, it's a flexible project management approach that prioritizes 	collaboration, adaptability, and incremental progress to deliver value efficiently in software 	development.
 
 ### Why/When did Agile come about?
 
@@ -20,7 +20,7 @@ There are four values of Agile to choose from, pick one and talk about it, menti
 
 ### What is Scrum, and what it is relationship to Agile?
 
-- Scrum is a specific Agile framework for project management, emphasizing iterative 	development, frequent communication, and self-organizing teams to deliver software effectively.
+- Scrum is a specific **Agile framework** for project management, emphasizing **iterative 	development**, frequent communication, and **self-organizing teams** to deliver software effectively.
 
 ### Explain the role of a scrum master?
 
@@ -64,3 +64,23 @@ The three pillars of scrum are **Transparency, Inspection, and Adaptation**
 
 - Defining what are the set requirements, that need to be complete before finishing, it's generic unlike acceptance criteria 
 	- Something that can be used so that everyone can know when a specific part of scrum can be done.
+
+### What is the Agile manifesto?
+
+- Document of 12 principles and 4 values
+
+### Are there any aspects of Agile that someone could perceive as being negative?
+
+- 
+
+### Explain Scrum framework
+
+- 
+
+### How can we prioritise the product backlog?
+
+- 
+
+### Explain the difference between "Acceptance criteria" and "the definition of done"
+
+- 

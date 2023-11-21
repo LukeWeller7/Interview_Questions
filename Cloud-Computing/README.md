@@ -1,7 +1,6 @@
 ### What is cloud computing?
 
-- 
-Cloud computing is like renting computer resources over the internet. Instead of owning and managing your own servers, you can tap into powerful data centers to run your apps and store data. It's convenient, cost-effective, and scalable – perfect for businesses and individuals alike!
+- Cloud computing is like renting **computer resources over the internet**. Instead of owning and managing your own servers, you can tap into powerful data centers to run your apps and store data. It's convenient, cost-effective, and scalable – perfect for businesses and individuals alike!
 
 ### Explain to me the history of cloud computing.
 
@@ -85,3 +84,5 @@ These options allow businesses to choose the right cloud service model that suit
 - **Robustness:** Cloud providers offer redundant infrastructure, enhancing system reliability and uptime, aligning with DevOps' focus on stability.
 
 - **Cost:** DevOps leverages cloud's pay-as-you-go model, optimizing resource allocation, reducing costs, and maximizing ROI.
+
+### Should everyone implement Cloud Computing to their business?

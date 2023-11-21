@@ -27,3 +27,22 @@ git commit -m "First Commit"
         # git commit commits all the files in the staging area into a local screenshot and is saved under the messaged denounced in quotes
 ```
 
+### What is Git used for?
+
+- 
+
+### Why use a version control system like Git?
+
+- 
+
+### What does integrating GitHub allow you to do?
+
+- 
+
+#### Why go to the trouble?
+
+- 
+
+### How can you make sure Git will not track a particular file or folder in its repository?
+
+- 

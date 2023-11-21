@@ -33,4 +33,17 @@
 
 - On the terminal you can generate a SSH key pair by using the command ```ssh-keygen```
 
+### Explain the concept of a SSH key pair
+
+- 
+
+### Why is using SSH better than using login credentials in most cases?
+
+- 
+
+### Where should you store your SSH keys?
+
+- 
+
+
 
